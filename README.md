@@ -92,7 +92,7 @@ Place mtsamples.csv in the project directory or a Google Drive folder (for train
 Usage
 Running the Streamlit App
 
-Navigate to the project directory:bashcd C:\Users\shris\Documents\College\Study\Fourth Year\Sem 7\DS&ML\Project
+Navigate to the project directory:bashcd C:\Users\ROMA\Documents\College\Study\Fourth Year\Sem 7\DS&ML\Project
 Run the Streamlit app with file watcher disabled (to avoid Windows-specific issues):bashstreamlit run app.py --server.fileWatcherType none
 Open the app in your browser at http://localhost:8501.
 
